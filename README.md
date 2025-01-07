@@ -80,7 +80,7 @@
 
 <br clear="both">
 
-<img src="[https://raw.githubusercontent.com/nikcode24/nikcode24/snake.svg](https://raw.githubusercontent.com/nikcode24/nikcode24/d4db428147e395c08627f77d4a23d4ca46462e42/snake.svg)" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/nikcode24/nikcode24/d4db428147e395c08627f77d4a23d4ca46462e42/snake.svg" alt="Snake animation" />
 
 ###
 
